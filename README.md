@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moomen azzam</h1>
 <h3 align="center">A passionate frontend developer from Gaza</h3>
-<img src='https://miro.medium.com/v2/resize:fit:1400/1*2Z8gFBnlmFYo3hVOS1s2bw.gif' alt='vue' align='right' width='400px'/>
+(https://github.com/MoomenAzzam/MoomenAzzam/assets/82784364/14dc75f1-8702-473d-abc3-95121ea8ce65)
 
 - 🌱 I’m currently learning **Advanced vue js topics**
 
