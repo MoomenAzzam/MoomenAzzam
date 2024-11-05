@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **moomenmazzam.front@gmail.com**
 
-- ⚡ Fun fact **The first web page was created by Tim Berners-Lee in 1990 and consisted of simple text with hyperlinks.**
+- ⚡ Fun fact **The first web page was created by Tim Berners-Lee in 2021 and consisted of simple text with hyperlinks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
